@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Notes</string>
+    <string name="title_toolbar">Заметки</string>
+    <string name="name_add">Name</string>
+    <string name="description_add">Description</string>
+    <string name="name_update">Name</string>
+    <string name="description_update">Description</string>
+    <string name="action_add_done">Done</string>
+    <string name="action_add">Add</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_update_done">Done</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete_message">Действительно удалить заметку?</string>
+    <string name="button_yes">Да</string>
+    <string name="button_no">Нет</string>
+    <string name="title_fragment_add">Add note</string>
+    <string name="title_fragment_update">Update note</string>
 </resources>
